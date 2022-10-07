@@ -18,8 +18,8 @@ I am actively working on these areas and would love any collaborations.
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/py?style=plastic)
 ![C](https://img.shields.io/badge/C-C99|C11-blue)
-![C++]((https://img.shields.io/badge/C-C++11|C++17-lime))
-![SQL]((https://img.shields.io/badge/SQL-MySql-red))
+![C++](https://img.shields.io/badge/C-C++11|C++17-green)
+![SQL](https://img.shields.io/badge/SQL-MySql-red)
 
 ## Connect with me.
 <a href="(https://twitter.com/kumarkaushal_)">
