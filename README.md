@@ -20,7 +20,7 @@ I am actively working on these areas and would love any collaborations:love_you_
 ![C](https://img.shields.io/badge/C-C99|C11-blue)
 ![C++](https://img.shields.io/badge/C-C++11|C++17-green)
 ![SQL](https://img.shields.io/badge/SQL-MySql-red)
-![SQL](https://img.shields.io/badge/Jupyter-Jupyter Notebook-orange)
+![SQL](https://img.shields.io/badge/Jupyter-Jupyter_Notebook-orange)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 [![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
 [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
