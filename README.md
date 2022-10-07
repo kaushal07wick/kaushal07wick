@@ -17,6 +17,7 @@ I am actively working on these areas and would love any collaborations.
 ## Languages and tools.
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/py?style=plastic)
+![C](https://img.shields.io/badge/shields.io-rocks!-orange)
 
 
 ## Connect with me.
