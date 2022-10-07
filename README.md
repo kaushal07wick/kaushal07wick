@@ -1,5 +1,5 @@
-# Hi, *Kaushal* here.
->Robotics Enthusiast, Computer Vision and Deep Learning Researcher.
+# Hi, *Kaushal* here:wave:.
+>Robotics:robot: Enthusiast, Computer Vision and Deep Learning Researcher.
 I am actively working on these areas and would love any collaborations.
 - Machine Learning
 - Deep Learning
@@ -20,6 +20,10 @@ I am actively working on these areas and would love any collaborations.
 ![C](https://img.shields.io/badge/C-C99|C11-blue)
 ![C++](https://img.shields.io/badge/C-C++11|C++17-green)
 ![SQL](https://img.shields.io/badge/SQL-MySql-red)
+![OpenCV](https://img.shields.io/badge/SQL-MySql-red)
+![Tensorflo](https://img.shields.io/badge/SQL-MySql-red)
+![SQL](https://img.shields.io/badge/SQL-MySql-red)
+
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
