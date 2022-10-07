@@ -14,7 +14,24 @@ I am actively working on these areas and would love any collaborations.
 - I was the university basketball team captain.
 - I participated in Gsoc and somtimes contribute to Mlpack (a machine learning library).
 
+## Languages and tools.
+
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/py?style=plastic)
+
+
+## Connect with me.
+<a href="(https://twitter.com/kumarkaushal_)">
+  <img
+    alt="Twitter"
+    src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="(https://www.linkedin.com/in/itsmrkkc001/)">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
 
 ## Some Info about the repo.
 
