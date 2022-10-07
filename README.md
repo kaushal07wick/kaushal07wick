@@ -14,6 +14,8 @@ I am actively working on these areas and would love any collaborations.
 - I was the university basketball team captain.
 - I participated in Gsoc and somtimes contribute to Mlpack (a machine learning library).
 
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/py?style=plastic)
+
 ## Some Info about the repo.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kaushal07wick&show_icons=true)
