@@ -20,7 +20,7 @@ I am actively working on these areas and would love any collaborations:love_you_
 ![C](https://img.shields.io/badge/C-C99|C11-blue)
 ![C++](https://img.shields.io/badge/C-C++11|C++17-green)
 ![SQL](https://img.shields.io/badge/SQL-MySql-red)
-[![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+![SQL](https://img.shields.io/badge/Jupyter-Jupyter Notebook-orange)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 [![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
 [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
@@ -53,7 +53,6 @@ I am actively working on these areas and would love any collaborations:love_you_
 </a>
 
 ## Some Info about the repo.
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kaushal07wick&show_icons=true)
 
