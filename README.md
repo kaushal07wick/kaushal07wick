@@ -1,4 +1,4 @@
-# Hello, *Kaushal* here.
+# Hi, *Kaushal* here.
 >Robotics Enthusiast, Computer Vision and Deep Learning Researcher.
 I am actively working on these areas and would love any collaborations.
 - Machine Learning
@@ -9,10 +9,10 @@ I am actively working on these areas and would love any collaborations.
 ## About me.
 - I am a Final Year Undergraduate Student of Engineering specializing in Artificial Intelligence.
 - I am passionate about robotics and Artificial General Intelligence.
-- I was a data analyst intern at Technocolabs Softwares Inc.
-- I completed my research fellowship at University Of Hyderabad under Prof. Atul Negi working on deep learning based computer vision research problems, my topic was Scene-text recognition. 
+- I was a data analyst intern at [Technocolabs Softwares Inc.](https://github.com/Technocolabs100)
+- I completed my research fellowship at University Of Hyderabad under Prof. [Atul Negi](https://www.linkedin.com/in/atul-negi-41182b156/) working on deep learning based computer vision research problems, my topic was [Scene-text recognition](https://paperswithcode.com/task/scene-text-recognition). 
 - I was the university basketball team captain.
-- I participated in Gsoc and somtimes contribute to Mlpack (a machine learning library).
+- I participated in Gsoc and somtimes contribute to [Mlpack](https://github.com/mlpack/mlpack).
 
 ## Languages and tools.
 
