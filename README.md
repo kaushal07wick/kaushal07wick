@@ -1,17 +1,19 @@
 # Hi, *Kaushal* here:wave:.
->Robotics:robot: Enthusiast, Computer Vision and Deep Learning Researcher.
+> LLM Enthusiast, Computer Vision and Deep Learning Researcher.
 I am actively working on these areas and would love any collaborations:love_you_gesture::handshake:.
-- Machine Learning
+- Langauage Modelling (Code LLMs)
 - Deep Learning
 - Computer Vision
 - Robotics
 
 ## About me.
-:point_right: I am a Final Year Undergraduate Student of Engineering specializing in Artificial Intelligence.
-- I am passionate about robotics and Artificial General Intelligence.
+:point_right: I am a recent Undergraduate Student of Engineering specializing in Artificial Intelligence.
+- I am passionate about LLMS and Artificial General Intelligence.
+- Being a Research Intern at IIIT Hyderabad, I worked on making drones make sense of the visual world in real-time.
 - I was a data analyst intern at [Technocolabs Softwares Inc.](https://github.com/Technocolabs100)
 - I completed my research fellowship at University Of Hyderabad under Prof. [Atul Negi](https://www.linkedin.com/in/atul-negi-41182b156/) working on deep learning based computer vision research problems, my topic was [Scene-text recognition](https://paperswithcode.com/task/scene-text-recognition). 
 - I was the university basketball team captain.
+- My one of the major open-source contribution is to [unifyai/ivy](https://github.com/unifyai/ivy/pull/13492)
 - I participated in Gsoc and somtimes contribute to [Mlpack](https://github.com/mlpack/mlpack).
 
 ## Languages and tools:hammer_and_wrench:
