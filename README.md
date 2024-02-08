@@ -1,6 +1,6 @@
-# Hi, *Kaushal* here:wave:.
+# Hi, *Kaushal* here :wave:
 > LLM Enthusiast, Computer Vision and Deep Learning Researcher.
-I am actively working on these areas and would love any collaborations:love_you_gesture::handshake:.
+I am actively working on these areas and would love any collaborations :love_you_gesture::handshake:.
 - Langauage Modelling (Code LLMs)
 - Deep Learning
 - Computer Vision
