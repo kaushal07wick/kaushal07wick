@@ -45,12 +45,7 @@ I am actively working on these areas and would love any collaborations :love_you
 :email: kaushalc64@gmail.com
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40kaushal)](https://twitter.com/kumarkaushal_)
-<a href="(https://www.linkedin.com/in/itsmrkkc001/)">
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
-  />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/11kaushalkumar/)
 
 ## Some Info about the repo.
 
