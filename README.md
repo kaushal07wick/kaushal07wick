@@ -44,7 +44,7 @@ I am actively working on these areas and would love any collaborations :love_you
 ## Connect with me.
 :email: kaushalc64@gmail.com
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/kumarkaushal_)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40kaushal)](https://twitter.com/kumarkaushal_)
 <a href="(https://www.linkedin.com/in/itsmrkkc001/)">
   <img
     alt="Linkedin"
