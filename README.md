@@ -44,12 +44,7 @@ I am actively working on these areas and would love any collaborations :love_you
 ## Connect with me.
 :email: kaushalc64@gmail.com
 
-<a href="(https://twitter.com/kumarkaushal_)">
-  <img
-    alt="Twitter"
-    src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
-  />
-</a>
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/kumarkaushal_)
 <a href="(https://www.linkedin.com/in/itsmrkkc001/)">
   <img
     alt="Linkedin"
