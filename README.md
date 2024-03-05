@@ -1,7 +1,7 @@
 # Hi, *Kaushal* here :wave:
-> LLM Enthusiast, Computer Vision and Deep Learning Researcher.
+> LLM Enthusiast, Computer Vision and Deep Learning Engineer.
 I am actively working on these areas and would love any collaborations :love_you_gesture::handshake:.
-- Langauage Modelling (Code LLMs)
+- Langauage Modelling
 - Deep Learning
 - Computer Vision
 - Robotics
@@ -9,6 +9,9 @@ I am actively working on these areas and would love any collaborations :love_you
 ## About me.
 :point_right: I am a recent Undergraduate Student of Engineering specializing in Artificial Intelligence.
 - I am passionate about LLMS and Artificial General Intelligence.
+- I worked for [LanceDB](https://lancedb.com/) as an ML Consultant. Writing technical blogs on [Medium](https://medium.com/@kaushalc64) and maintaining the github repository.
+- I previously worked as ML Engineer for [FISCLOUDS](https://www.fisclouds.com/), working on MLOPS, especially GCP (Google Cloud Platform) and Kubeflow Pipelines.
+- I also have experience in robotics, working for [Grene Robotics](https://grenerobotics.com/), I designed system software in python for autonomous surevelliance drone and kamikaze drone.
 - Being a Research Intern at IIIT Hyderabad, I worked on making drones make sense of the visual world in real-time.
 - I was a data analyst intern at [Technocolabs Softwares Inc.](https://github.com/Technocolabs100)
 - I completed my research fellowship at University Of Hyderabad under Prof. [Atul Negi](https://www.linkedin.com/in/atul-negi-41182b156/) working on deep learning based computer vision research problems, my topic was [Scene-text recognition](https://paperswithcode.com/task/scene-text-recognition). 
@@ -39,7 +42,7 @@ I am actively working on these areas and would love any collaborations :love_you
 </p>
 
 ## Connect with me.
-:email: kaushal3314@proton.me
+:email: kaushalc64@gmail.com
 
 <a href="(https://twitter.com/kumarkaushal_)">
   <img
