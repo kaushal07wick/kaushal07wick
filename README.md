@@ -19,7 +19,7 @@ I am actively working on these areas and would love any collaborations :love_you
 - My one of the major open-source contribution is to [unifyai/ivy](https://github.com/unifyai/ivy/pull/13492)
 - I participated in Gsoc and somtimes contribute to [Mlpack](https://github.com/mlpack/mlpack).
 
-## Languages and tools:hammer_and_wrench:
+## Languages and tools :hammer_and_wrench:
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/py?style=plastic)
 ![C](https://img.shields.io/badge/C-C99|C11-blue)
