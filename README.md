@@ -1,3 +1,5 @@
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/vmfunc/vmfunc/blob/main/ransom.png?raw=true');]{x0000}$}}
+
 # Hi, *Kaushal* here :wave:
 > LLM Enthusiast, Computer Vision and Deep Learning Engineer.
 I am actively working on these areas and would love any collaborations :love_you_gesture::handshake:.
