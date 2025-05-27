@@ -1,4 +1,7 @@
-# Hi, *Kaushal* here :wave:
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=SpaceMono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=How+you+doing!!!;+Kaushal+here+👋👋!;" />
+</h1>
+
 > LLM Enthusiast, Computer Vision and Deep Learning Engineer.
 I am actively working on these areas and would love any collaborations :love_you_gesture::handshake:.
 - Langauage Modelling
