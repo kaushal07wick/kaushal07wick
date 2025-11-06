@@ -47,7 +47,7 @@ Systems-first ML engineer who ships production inference, data pipelines, and fa
 
 ## Contact
 Email: kaushalc64@gmail.com  
-Twitter: https://twitter.com/kumarkaushal_  
+Twitter: https://twitter.com/ofcboogeyman 
 LinkedIn: https://www.linkedin.com/in/11kaushalkumar/
 
 
