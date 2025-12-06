@@ -1,3 +1,4 @@
-# Hey Guys 👋
+# Kaushal Here🙋‍♂️.
 
-# building stuff and looking for a job.
+I code occasionally and obsessively👩‍💻.
+
