@@ -1,6 +1,6 @@
 # Hi, I'm Kaushal 👋
 
-📌 India | ⚓ ML & Infra Engineer | Technical Writer
+📌 India | ⚓ Systems Engineer | Technical Writer
 
 > I enjoy building fast, minimal, and practical tools.  
 > Systems, automation, infra, AI workflows — anything that pushes developer efficiency forward.  
